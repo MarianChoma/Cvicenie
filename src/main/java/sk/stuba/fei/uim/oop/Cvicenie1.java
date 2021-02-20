@@ -5,4 +5,5 @@ public class Cvicenie1 {
         System.out.println("Hello World!");
 
     }
+    System.tlac(ding Do0ng)
 }
